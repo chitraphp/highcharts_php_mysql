@@ -7,7 +7,7 @@
     <script type="text/javascript" src="js/highcharts.js" ></script>
     <script type="text/javascript" src="js/themes/gray.js"></script>
 
-    /***********Script for highcharts**************/
+  
     <script type="text/javascript">
     //variables to hold x-axis 'categories', y-axis 'series'
     var names = [];
@@ -75,6 +75,7 @@
     </script>
   </head>
   <body>
+    <!--- container to hold highcharts-------->
     <div id="container" style="width: 100%; height: 400px; margin: 0 auto"></div>
 
   </body>
